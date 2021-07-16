@@ -11,5 +11,8 @@
 
 # 文档详情
 
-中文API文档：https://github.com/Tokenwallet/Crypto_Wallet_Generator_API/blob/main/Crypto%20Wallet%20Generator%20API%20Document-en.md
-English Api Document: https://github.com/Tokenwallet/Crypto_Wallet_Generator_API/blob/main/Crypto%20Wallet%20Generator%20API%20Document-en.md
+ 中文API文档：  https://github.com/Tokenwallet/Crypto_Wallet_Generator_API/blob/main/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E9%92%B1%E5%8C%85%E7%94%9F%E6%88%90%E5%99%A8API%E6%96%87%E6%A1%A3-%E4%B8%AD%E6%96%87.md
+
+
+ English Api Document: 
+ https://github.com/Tokenwallet/Crypto_Wallet_Generator_API/blob/main/Crypto%20Wallet%20Generator%20API%20Document-en.md
