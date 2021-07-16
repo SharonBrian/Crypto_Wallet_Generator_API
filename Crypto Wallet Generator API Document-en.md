@@ -41,6 +41,8 @@ privateKey		  String			wallet private key
 
 ## Donations
 **BTC Address:** 15AEAHyMjFGqKvSgsbmUBD1M7xVXJaBsHz			
+
 **ETH Address:**	0x3d61db050fc4810c64012ac260dc9c73b902f641		
+
 **DOGE Address:**	D8BAJrtK4W3jZ8XNQAyjxiEQgogCbboyZb	
 
