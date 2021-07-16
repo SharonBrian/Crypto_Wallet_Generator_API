@@ -44,5 +44,7 @@ privateKey		  String			钱包私钥
 ## 捐赠
 
 **BTC地址:** 	15AEAHyMjFGqKvSgsbmUBD1M7xVXJaBsHz		
+
 **ETH地址:**	0x3d61db050fc4810c64012ac260dc9c73b902f641		
-**TRX地址:**	D8BAJrtK4W3jZ8XNQAyjxiEQgogCbboyZb		
+
+**DOGE地址:**	D8BAJrtK4W3jZ8XNQAyjxiEQgogCbboyZb		
