@@ -1,10 +1,11 @@
 #### **update log:**
-
- 2021-07-16 : Add Symbol: BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、MATIC、DASH、DOGE、QTUM
+ 2021-07-17 : Add Symbol: EOS、Cosmos(ATOM)、Filecoin(FIL)
+ 
+ 2021-07-16 : Add Symbol: BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、MATIC、DASH、DOGE、QTUM、EOS、Cosmos(ATOM)、Filecoin(FIL)
 
 # Crypto Wallet Generator API Document
 
-**Supported Crypto Wallet：**BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、MATIC、BCH、LTC、DASH、DOGE、QTUM
+**Supported Crypto Wallet：**BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、MATIC、BCH、LTC、DASH、DOGE、QTUM、EOS、ATOM、FIL
 
 
 **For learning and test only, please do not use for commercial purposes**
