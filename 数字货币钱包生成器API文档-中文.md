@@ -1,10 +1,10 @@
 #### **更新日志:**
-
+ 2021-07-17 ：新增币种： EOS、Cosmos(ATOM)、Filecoin(FIL)
  2021-07-16 : 新增币种: BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、Polygon(MATIC)、DASH、DOGE、QTUM
 
 # 数字货币钱包地址生成器 API 使用文档
 
-支持币种列表：BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、Polygon(MATIC)、BCH、LTC、DASH、DOGE、QTUM
+支持币种列表：BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、Polygon(MATIC)、BCH、LTC、DASH、DOGE、QTUM、EOS、ATOM、FIL
 
 
 仅供学习,请勿用于商业用途
@@ -21,7 +21,7 @@
 GET   /create/<symbol>
 ```
 
-**symbol可选项为: btc、eth、etc、trx、heco、bsc、okt、usdt_erc20、usdt_trc20、usdt_omni、matic、bch、ltc、dash、doge、qtum**
+**symbol可选项为: btc、eth、etc、trx、heco、bsc、okt、usdt_erc20、usdt_trc20、usdt_omni、matic、bch、ltc、dash、doge、qtum、eos、atom、fil**
 
 ### 请求示例
 
