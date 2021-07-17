@@ -2,13 +2,13 @@
 
 #### **更新日志:**
 #### **Update Log:**
- 2021-07-17 : 新增币种（Add Symbols） EOS、Cosmos(ATOM)、Filecoin(FIL)
+ 2021-07-17 : 新增币种（Add Symbols） EOS、Cosmos(ATOM)、Filecoin(FIL)、BSV、VeChain(VET)、Steller(XLM)
 
- 2021-07-16 : 新增币种(Add Symbols): BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、Polygon(MATIC)、DASH、DOGE、QTUM、EOS、Cosmos(ATOM)、Filecoin(FIL)
+ 2021-07-16 : 新增币种(Add Symbols): BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、Polygon(MATIC)、DASH、DOGE、QTUM、EOS、Cosmos(ATOM)、Filecoin(FIL)、BSV、VeChain(VET)、Steller(XLM)
 
 # 数字货币钱包地址生成器 API 使用文档.  Crypto Wallet Generator API Document
 
-支持币种列表(Supported Crypto Wallet)：BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、Polygon(MATIC)、BCH、LTC、DASH、DOGE、QTUM、EOS、ATOM、FIL
+支持币种列表(Supported Crypto Wallet)：BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、Polygon(MATIC)、BCH、LTC、DASH、DOGE、QTUM、EOS、ATOM、FIL、BSV、VET、XLM
 
 # 文档详情
 
