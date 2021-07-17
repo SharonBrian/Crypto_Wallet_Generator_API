@@ -2,7 +2,7 @@
 
 #### **更新日志:**
 #### **Update Log:**
- 2021-07-17 : 新增币种 EOS、Cosmos(ATOM)、Filecoin(FIL)
+ 2021-07-17 : 新增币种（Add Symbols） EOS、Cosmos(ATOM)、Filecoin(FIL)
 
  2021-07-16 : 新增币种(Add Symbols): BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、Polygon(MATIC)、DASH、DOGE、QTUM、EOS、Cosmos(ATOM)、Filecoin(FIL)
 
