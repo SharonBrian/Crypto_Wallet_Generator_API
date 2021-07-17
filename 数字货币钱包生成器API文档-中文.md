@@ -1,5 +1,6 @@
 #### **更新日志:**
  2021-07-17 ：新增币种： EOS、Cosmos(ATOM)、Filecoin(FIL)
+ 
  2021-07-16 : 新增币种: BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、Polygon(MATIC)、DASH、DOGE、QTUM
 
 # 数字货币钱包地址生成器 API 使用文档
