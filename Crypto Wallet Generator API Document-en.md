@@ -21,7 +21,7 @@
 ```
 GET   /create/<symbol>
 ```
-**symbol options :  btc、eth、etc、trx、heco、bsc、okt、usdt_erc20、usdt_trc20、usdt_omni、matic、bch、ltc、dash、doge、qtum**
+**symbol options :  btc、eth、etc、trx、heco、bsc、okt、usdt_erc20、usdt_trc20、usdt_omni、matic、bch、ltc、dash、doge、qtum、eos、atom、fil**
 
 ### Request Example
 
