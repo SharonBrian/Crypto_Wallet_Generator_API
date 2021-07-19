@@ -1,11 +1,14 @@
 #### **update log:**
- 2021-07-17 : Add Symbol: EOS、Cosmos(ATOM)、Filecoin(FIL)、BSV、VeChain(VET)、Steller(XLM)
- 
- 2021-07-16 : Add Symbol: BTC、ETH、ETC、TRX、HECO、BSC、OKT、USDT(ERC20/TRC20/OMNI)、BCH、LTC、MATIC、DASH、DOGE、QTUM、EOS、Cosmos(ATOM)、Filecoin(FIL)
+ 2021-07-18 : Added Symbols: BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
+
+2021-01-11 : Added Symbols: LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)
+
+2020-07-16 : Added Symbols: BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、QTUM、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)
+
 
 # Crypto Wallet Generator API Document
 
-**Supported Crypto Wallet：**BTC、ETH、ETC、TRX、HuobiEcoChain(HECO)、Binance Smart Chain(BSC)、OKex Chain（OKT）、USDT-ERC20、USDT-TRC20、USDT-OMNI、MATIC、BCH、LTC、DASH、DOGE、QTUM、EOS、ATOM、FIL、BSV、VeChain(VET)、Steller(XLM)
+**Supported Crypto Wallet：**BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、QTUM、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)、LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)、BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
 
 **For learning and test only, please do not use for commercial purposes**
@@ -21,7 +24,7 @@
 ```
 GET   /create/<symbol>
 ```
-**symbol options :  btc、eth、etc、trx、heco、bsc、okt、usdt_erc20、usdt_trc20、usdt_omni、matic、bch、ltc、dash、doge、qtum、eos、atom、fil、bsv、vet、xlm**
+**symbol options :  btc、eth、etc、heco、bsc、okt、trx、usdt_erc20、usdt_trc20、usdt_omni、eos、bch、qtum、fil、bsv、vet、matic、ltc、dash、doge、atom、xmr、waves、xrp、bnb、neo、ont、xlm、pote、club **
 
 ### Request Example
 
