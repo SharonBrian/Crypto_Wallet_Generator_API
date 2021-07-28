@@ -1,4 +1,6 @@
 #### **更新日志:**
+2021-07-28 ：限制访问频率，每个IP每秒访问接口次数限制为2次，超过则会报访问频率超过限制的错误；
+
 2021-07-18 : 新增币种 BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
 2021-01-11 : 新增币种 LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)
@@ -37,6 +39,7 @@ GET   /create/btc
 ```
 参数名			   参数类型		   描述
 state     		  String			状态值: success 、error
+code       String   状态码: 1000(success)、1001(request_exceed_limit)、1002(symbol_not_supported)、1003（service_error）
 symbol			  String			币种简称
 addr			    String			钱包地址
 privateKey		  String			钱包私钥
