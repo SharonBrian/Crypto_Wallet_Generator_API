@@ -1,4 +1,6 @@
 #### **update log:**
+2021-07-28: Limit the frequency of access, each IP access to the interface is limited to 2 times per second, if it is exceeded, an error that the access frequency exceeds the limit will be reported
+
  2021-07-18 : Added Symbols: BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
 2021-01-11 : Added Symbols: LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)
@@ -36,6 +38,7 @@ GET   /create/btc
 ```
 Parameter Name	  Parameter Type	Description
 state     		  String			state value: success 、error
+code       String   state code: 1000(success)、1001(request_exceed_limit)、1002(symbol_not_supported)、1003（service_error）
 symbol			  String			symbol
 addr			    String			wallet address
 privateKey		  String			wallet private key
