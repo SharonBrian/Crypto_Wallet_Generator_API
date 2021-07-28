@@ -1,5 +1,8 @@
 # 数字货币钱包生成器API接口文档 Crypto_Wallet_Generator_API  
 
+#### **接口访问频率限制（Interface Request Limit）:**
+  每秒2次 （2 times Every second）
+  
 #### **更新日志:**
 #### **Update Log:**
 2021-07-18 : 新增币种(Added Symbols) BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
