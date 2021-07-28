@@ -39,7 +39,7 @@ GET   /create/btc
 ```
 参数名			   参数类型		   描述
 state     		  String			状态值: success 、error
-code       String   状态码: 1000(success)、1001(request_exceed_limit)、1002(symbol_not_supported)、1003（service_error）
+ code         String   状态码: 1000(success)、1001(request_exceed_limit)、1002(symbol_not_supported)、1003（service_error）
 symbol			  String			币种简称
 addr			    String			钱包地址
 privateKey		  String			钱包私钥
