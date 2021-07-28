@@ -3,11 +3,11 @@
 
 2021-01-11 : 新增币种 LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)
 
-2020-07-16 : 新增币种: BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、QTUM、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)
+2020-07-16 : 新增币种: BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)
 
 # 数字货币钱包地址生成器 API 使用文档
 
-支持币种列表：BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、QTUM、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)、LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)、BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
+支持币种列表：BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)、LTC、DASH、DOGE、Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)、BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
 
 仅供学习,请勿用于商业用途
@@ -24,7 +24,7 @@
 GET   /create/<symbol>
 ```
 
-**symbol可选项为: btc、eth、etc、heco、bsc、okt、trx、usdt_erc20、usdt_trc20、usdt_omni、eos、bch、qtum、fil、bsv、vet、matic、ltc、dash、doge、atom、xmr、waves、xrp、bnb、neo、ont、xlm、pote、club **
+**symbol可选项为: btc、eth、etc、heco、bsc、okt、trx、usdt_erc20、usdt_trc20、usdt_omni、eos、bch、fil、bsv、vet、matic、ltc、dash、doge、atom、xmr、waves、xrp、bnb、neo、ont、xlm、pote、club **
 
 ### 请求示例
 
